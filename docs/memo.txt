@@ -1,0 +1,13 @@
+
+Reference
+http://clang.llvm.org/doxygen/modules.html
+
+samples... tutorials
+http://amnoid.de/tmp/clangtut/tut.html
+https://github.com/sabottenda/libclang-sample
+http://cat-in-136.blogspot.jp/2012/12/llvm-clangast.html
+
+PDCLib
+http://pdclib.e43.eu/
+
+
